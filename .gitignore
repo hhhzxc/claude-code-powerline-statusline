@@ -1,0 +1,5 @@
+.agents/
+.claude/
+*.tmp
+*.log
+statusline-tokens-*.json
