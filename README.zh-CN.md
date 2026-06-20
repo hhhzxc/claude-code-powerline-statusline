@@ -10,13 +10,6 @@
 
 ![Claude Code Powerline 状态栏预览](assets/preview.png)
 
-```text
- Opus 4.8 > high > 660.0K/1000K 66%            $34.50 > 5h 21% > 7d 3%
- Write $5.61 (16%) > Out $7.54 (22%) > Cache $21.35 (62%)
-```
-
-预览里的 `>` 只是纯文本替代符；实际脚本会渲染 powerline 三角箭头。
-
 ## 隐私与账号行为
 
 这个状态栏是完全本地的。它只解析 Claude Code 已经在本机提供的 statusline JSON 和 transcript 文件，然后在本地终端渲染状态栏。

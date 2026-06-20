@@ -13,14 +13,6 @@ payload and transcript paths that Claude Code provides locally.
 
 ![Claude Code Powerline Statusline preview](assets/preview.png)
 
-```text
- Opus 4.8 > high > 660.0K/1000K 66%            $34.50 > 5h 21% > 7d 3%
- Write $5.61 (16%) > Out $7.54 (22%) > Cache $21.35 (62%)
-```
-
-The preview uses `>` as a plain-text stand-in. The actual script renders
-powerline triangle separators.
-
 ## Privacy And Account Behavior
 
 This statusline is fully local. It parses the statusline JSON and transcript
